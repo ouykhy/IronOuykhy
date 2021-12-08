@@ -1,1 +1,82 @@
+1. What are the different genres?
+Book
+Business
+Education
+Entertainment
+Finance
+Food & Drink
+Games
+Health & Fitness
+Lifestyle
+Medical
+Music
+Navigation
+News
+Photo & Video
+Productivity
+Reference
+Shopping
+Social Networking
+Sports
+Travel
+Utilities
+Weather
 
+2. Which is the genre with the most apps rated?
+Social Networking	2974676
+
+3. Which is the genre with most apps?
+Games	169
+
+4. Which is the one with least?
+Medical	1
+
+5. Find the top 10 apps most rated.
+Facebook	2 974 676
+Pandora - Music & Radio	1 126 879
+Pinterest	1 061 624
+Bible	985 920
+Angry Birds	824 451
+Fruit Ninja Classic	698 516
+Solitaire	679 055
+PAC-MAN	508 808
+Calorie Counter & Diet Tracker by MyFitnessPal	507 706
+The Weather Channel: Forecast, Radar & Alerts	495 626
+
+6. Find the top 10 apps best rated by users.
+The Photographer's Ephemeris	5
+J&J Official 7 Minute Workout	5
+Daily Audio Bible App	5
+Plants vs. Zombies	5
+Learn English quickly with MosaLingua	5
+Domino's Pizza USA	5
+Kurumaki Calendar -month scroll calendar-	5
+Fragment's Note	5
+Dragon Island Blue	5
+TurboScan Pro - document & receipt scanner: scan multiple pages and photos to PDF	5
+
+7. Take a look at the data you retrieved in question 5. Give some insights.
+known or popular apps appearing here with the top 3 over 1 and 2 millions
+
+8. Take a look at the data you retrieved in question 6. Give some insights.
+looking at customer satisfaction as a result I'm getting different apps   
+
+9. Now compare the data from questions 5 and 6. What do you see?
+might be useful to show the genre and see which genre the apps are from (most rated vs best rated)
+
+10. How could you take the top 3 regarding both user ratings and number of votes?
+Plants vs. Zombies	5	426 463
+Domino's Pizza USA	5	258 624
+Plants vs. Zombies HD	5	163 598
+
+11. Do people care about the price of an app? Do some queries, comment why are you doing them and the results you retrieve. What is your conclusion?
+we are missing the number of download and only have the number of votes(just a % of users downloading the app) whereas the rating provides hints on customer satisfaction.
+I looked at the free app and the total number of rating is the highest, free app could be a factor of use.
+
+Facebook	0	Social Networking	2974676
+Pandora - Music & Radio	0	Music	1126879
+Pinterest	0	Social Networking	1061624
+Bible	0	Reference	985920
+Angry Birds	0	Games	824451
+Solitaire	0	Games	679055
+PAC-MAN	0	Games	508808
