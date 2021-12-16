@@ -9,6 +9,4 @@ Risk column is non numerical, no missing values
 Department: only one value -> drop
 No duplicates
 Inconsistent data in profession column (manager vs Manager, hr vs HR, etudient vs student, bdm vs BDM)
-
-Part 4: Encode categorical data
-Profession and Risk need to be encoded
+Encode categorical Profession and Risk
