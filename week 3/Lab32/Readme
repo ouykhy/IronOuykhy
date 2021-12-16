@@ -10,3 +10,14 @@ Department: only one value -> drop
 No duplicates
 Inconsistent data in profession column (manager vs Manager, hr vs HR, etudient vs student, bdm vs BDM)
 Encode categorical Profession and Risk
+
+short review of cleaned data:
+for the same client ID 
+    Client 35008, BirthYear shows 2 values 1976 and 1967,
+    Client 34988, BirthYear shows 2 values 1999 and 1968,
+    Client 34987, BirthYear shows 2 values 1968 and 1967,
+ This might require cleaning
+ 
+ short review from updated describe
+ Profession 10 is showing as max
+ 
