@@ -1,15 +1,18 @@
 Plan for data preparation, approaches and summary
-Table contains 30 rows -> Column inspection:
-TransactionID	ok
-ClientID	ok
-BirthYear: 2 missing
-Amount: 1 outlier
-Department: only one value (can be dropped)
-Risk column is non numerical
+Table contains 30 rows 
+TransactionID	and ClientID are fine
+BirthYear: 2 missing -> replace with mean
+Amount: 1 outlier -> drop?
+Profession column is non numerical + 2 missing -> drop or replace with modal
+Risk column is non numerical, no missing values
+Department: only one value -> can be dropped
 
-
+duplicates
+data consistently
 
 Part 3: Data cleansing (missing values, outliers, duplicates, data consistently)
 Part 4: Encode categorical data
+Profession and Risk need to be encoded
+
 Part 5: Upload the deliverables to GitHub
 
