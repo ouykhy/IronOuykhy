@@ -1,1 +1,15 @@
+Plan for data preparation, approaches and summary
+Table contains 30 rows -> Column inspection:
+TransactionID	ok
+ClientID	ok
+BirthYear: 2 missing
+Amount: 1 outlier
+Department: only one value (can be dropped)
+Risk column is non numerical
+
+
+
+Part 3: Data cleansing (missing values, outliers, duplicates, data consistently)
+Part 4: Encode categorical data
+Part 5: Upload the deliverables to GitHub
 
