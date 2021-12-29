@@ -1,5 +1,5 @@
 
 | Method | Library        | Code        | Result        |
 | -----  | -------------- | ----------- | ------------- |
-| Encode | Dummy Encoder  | Content Ce  | Content Cell  |
+| Encode | Dummy Encoder  | z = pd.get_dummies(df.Profession, prefix='Profession')  | dataframe  |
 |        | Conte nt Cell  |
