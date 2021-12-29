@@ -2,4 +2,7 @@
 | Method | Library        | Code        | Result        |
 | -----  | -------------- | ----------- | ------------- |
 | Encode | Dummy Encoder  | z = pd.get_dummies(df.Profession, prefix='Profession')  | dataframe  |
-|        | Conte nt Cell  |
+|        | Label Encoder  | from sklearn.preprocessing import LabelEncoder
+                            label=LabelEncoder()
+                            df["Profession"] = label.fit_transform(df["Profession"])
+                            df
