@@ -1,2 +1,0 @@
-# IronOuykhy
-Lab1
